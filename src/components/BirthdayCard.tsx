@@ -27,7 +27,7 @@ type BirthdayCardProps = {
   children?: ReactNode;
 };
 
-const CARD_SCALE = 0.25;
+const CARD_SCALE = 0.5;
 const CARD_WIDTH = 4 * CARD_SCALE;
 const CARD_HEIGHT = 3 * CARD_SCALE;
 const CAMERA_DISTANCE = 1.2;
